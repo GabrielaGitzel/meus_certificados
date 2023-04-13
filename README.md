@@ -16,5 +16,4 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89148287/231839956-93c1824d-bfdf-444d-ab73-6a1efa0df6ca.png" width="800px" />
-Link: https://cursos.alura.com.br/certificate/88a1c9b2-6c95-4c39-b86b-056617708558
 </div>
